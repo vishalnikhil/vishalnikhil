@@ -38,14 +38,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <table>
     <td align="center">
-        <a href="https://github.com/vishalnikhil"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Dharamvirr&show_icons=true&locale=en&theme=codeSTACKr" /></a>
+        <a href="https://github.com/vishalnikhil"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=vishalnikhil&show_icons=true&locale=en&theme=codeSTACKr" /></a>
     </td>
     <td align="center">
         <a href="https://github.com/vishalnikhil"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dharamvirr&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" /></a>
     </td>
 </table>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dharamvirr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=vishalnikhil&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <br>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dharamvirr&show_icons=true&locale=en&layout=compact" alt="Dharamvirr" /></p> -->
